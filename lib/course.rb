@@ -12,5 +12,9 @@ class Course
     @@all
   end
   
+  self.reset_all
+    
+  end
+  
 end
 
