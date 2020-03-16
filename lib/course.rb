@@ -13,7 +13,7 @@ class Course
   end
   
   self.reset_all
-    
+    @@all.clear
   end
   
 end
